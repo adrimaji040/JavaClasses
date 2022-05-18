@@ -1,0 +1,45 @@
+GitHub / git
+a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
+user:adrimaji040
+email: adrimaji040@xxxx. com
+pass: MaDa$3030$AZ99
+
+Save your recovery codes
+6590d-68173
+993e3-9969d
+08e5b-3f070
+74efe-0a5ba
+b0e51-5450b
+a0e63-c4a0c
+863a8-42385
+ddf80-5ac92
+ab8ee-4244b
+72692-f5f75
+bfec3-d9e70
+73223-8f8de
+dd1a6-8322d
+df538-9d1f7
+56022-33bfe
+20a0b-6c5a9
+
+
+
+Oracle
+SID: adripdb
+pass: Adri123$
+
+
+https://github.com/adrimaji040/practice
+
+Oracle Enterprise Manager Database Express URL: https://localhost.local:5500/em
+
+
+ CREATE SMALLFILE TABLESPACE adriptbs1 DATAFILE 'C:\oraclexe\tablespaces\smalltsp1.dat' SIZE 200M AUTOEXTEND ON;
+  CREATE TEMPORARY TABLESPACE adritemtbs1 TEMPFILE 'C:\oraclexe\tablespaces\tempotbs1.dbf' SIZE 200M AUTOEXTEND ON ;
+
+ CREATE USER adri1 IDENTIFIED BY adriana
+  DEFAULT TABLESPACE adriptbs1
+  TEMPORARY TABLESPACE adritemtbs1
+  QUOTA UNLIMITED ON adriptbs1
+
+https://www.youtube.com/watch?v=KDu_VF9xaGk 

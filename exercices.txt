@@ -1,0 +1,30 @@
+****** Exercice 1
+Has un arreglo
+Array1 =  {1, 22, 6, 7, 125, 5, 46, 111, 11, 0}
+
+Has otros dos arreglos :
+
+ArrayOdds [10]
+ArrayEvens[10]
+
+Lee el Array1, y asigna los numeros pares al arreglo  ArrayEven.   
+  y los numeros impares al otro arreglo ArrayOdd
+
+Imprime los tree arreglos
+
+
+******* Ecercice 2****
+ EJERCICIO N2
+ Haz un arreglo
+arrayColors = {“blue”, “green”, “yellow”, “red”}
+
+Haz otro arreglo
+
+arr2 [4]
+
+Lee el arrayColor y llena el otro arreglo al reves. Es decir
+arr2 [“red”, “yellow”, “green”, “blue”}
+
+Imprime ambos arreglos
+
+*************   
